@@ -31,6 +31,7 @@ To install the required libraries, you can use pip:
 
 ```bash
 pip install prettytable
+pip install tkinter
 ```
 
 ## License
